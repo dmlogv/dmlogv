@@ -7,8 +7,8 @@ I'm a software developer and data engineer from Russia.
 I work full-time on local taxi business on dataflows engineering and database management.
 
 
-- CV: https://github.com/dm-logv/cv 🇷🇺
-- LinkedIn: https://www.linkedin.com/in/dmitrylogvinenko/ 🇬🇧
+- 👨🏻‍💻 CV: https://github.com/dm-logv/cv 🇷🇺
+- 🤼‍♂️ LinkedIn: https://www.linkedin.com/in/dmitrylogvinenko/ 🇬🇧
 
 
 ### ✏️ Texts
@@ -17,7 +17,7 @@ I work full-time on local taxi business on dataflows engineering and database ma
 - 🦉 Twitter: https://twitter.com/dmlogv 🇷🇺🇬🇧
 
 
-### Hobby
+### 🪁 Hobby
 
 - ⌨️ Computer science & programming
 - 🎼 Music 

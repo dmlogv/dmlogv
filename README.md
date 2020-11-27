@@ -10,12 +10,14 @@ I work full-time on local taxi business on dataflows engineering and database ma
 - 👨🏻‍💻 CV: https://github.com/dm-logv/cv 🇷🇺
 - 🤼‍♂️ LinkedIn: https://www.linkedin.com/in/dmitrylogvinenko/ 🇬🇧
 
+---
 
 ### ✏️ Texts
 
 - 📝 Habr: https://habr.com/ru/users/dmitryanatolich/ 🇷🇺
 - 🦉 Twitter: https://twitter.com/dmlogv 🇷🇺🇬🇧
 
+---
 
 ### 🪁 Hobby
 
@@ -23,6 +25,7 @@ I work full-time on local taxi business on dataflows engineering and database ma
 - 🎼 Music 
 -  ♟ Chess: https://www.chess.com/member/dmitryanatolich
 
+---
 
 ### 📊 Some stats
 
@@ -32,6 +35,7 @@ I work full-time on local taxi business on dataflows engineering and database ma
 
 - ⚖️ [My contributions](https://github.com/pulls?q=author%3Adm-logv+-user%3Adm-logv)
 
+---
 
 ### ☎️ Connect me
 

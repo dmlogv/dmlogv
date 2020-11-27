@@ -23,13 +23,15 @@ I work full-time on local taxi business on dataflows engineering and database ma
 - 🎼 Music 
 -  ♟ Chess: https://www.chess.com/member/dmitryanatolich
 
-<!--
+
 ### 📊 Some stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?hide_border=true&show_icons=true&count_private=true&username=dm-logv)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&layout=compact&username=dm-logv)
--->
+
+- ⚖️ [My contributions](https://github.com/pulls?q=author%3Adm-logv+-user%3Adm-logv)
+
 
 ### ☎️ Connect me
 

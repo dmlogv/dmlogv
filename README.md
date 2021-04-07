@@ -14,7 +14,7 @@ I work full-time on local taxi business on dataflows engineering and database ma
 
 ### ✏️ Texts
 
-- 📝 Habr: https://habr.com/ru/users/dmitryanatolich/ 🇷🇺
+- 📝 Habr: https://habr.com/ru/users/dmlogv/ 🇷🇺
 - 🦉 Twitter: https://twitter.com/dmlogv 🇷🇺🇬🇧
 
 ---

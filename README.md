@@ -4,7 +4,7 @@
 
 I'm a software developer and data engineer from Russia. 
 
-I work full-time on local taxi business on dataflows engineering and database management.
+I work full-time in the international games production company on dataflows development and data warehouse engineering.
 
 
 - 👨🏻‍💻 CV: https://github.com/dmlogv/cv 🇷🇺
